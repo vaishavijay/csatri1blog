@@ -4,8 +4,6 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+Vaishavi Jayashankar | DNHS Class of 2023
 
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+APCSA Period 2, Trimester 1, Mortensen
